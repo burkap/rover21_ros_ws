@@ -1,0 +1,6 @@
+[submodule "src/Simulations"]
+	path = src/Simulations
+	url = https://github.com/burkap/Simulations
+[submodule "src/rowu_21_moveit_config"]
+	path = src/rowu_21_moveit_config
+	url = https://github.com/burkap/rowu_21_moveit_config
