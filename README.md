@@ -2,7 +2,7 @@
 
 Clone this repository using the following command: 
 ```
-git clone --recurse-submodules https://github.com/burkap/rover21_ros_ws`
+git clone --recurse-submodules https://github.com/burkap/rover21_ros_ws
 ```
 ```
 cd rover21_ros_ws
